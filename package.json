@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "elysia": "^1.1.23",
+    "react": "0.0.0-experimental-b8ae38f8-20241018",
+    "react-dom": "0.0.0-experimental-b8ae38f8-20241018",
+    "react-refresh": "0.0.0-experimental-b8ae38f8-20241018",
+    "react-server-dom-bun": "https://media.paperdave.net/react-server-dom-bun.tgz"
+  },
+  "name": "sample",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
